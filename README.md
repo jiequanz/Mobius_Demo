@@ -12,4 +12,4 @@ Examples output:
 ![image](example3.png)
 ![image](example4.png)
 
-Change the filename in Mobius_demo.ipynb and you will be able to mobius-transform your images!
+Change the filename in Mobius_demo.ipynb and you will be able to mobius-transform your images! :)
