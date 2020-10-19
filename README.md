@@ -6,12 +6,13 @@ https://arxiv.org/abs/2002.02917
 
 
 Examples output: 
-<img src="example1.png" width="64" height="64">
 
-<img src="example2.png" width="64" height="64">
+<img src="example1.png" width="300" height="90">
 
-<img src="example3.png" width="64" height="64">
+<img src="example2.png" width="300" height="90">
 
-<img src="example4.png" width="64" height="64">
+<img src="example3.png" width="300" height="90">
+
+<img src="example4.png" width="300" height="90">
 
 Change the filename in Mobius_demo.ipynb and you will be able to mobius-transform your images! :)
