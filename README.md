@@ -9,23 +9,23 @@ Examples:
 
 Original Images:
 
-<img src="example1.jpg" width="500" height="500">
+<img src="example_images/example1.jpg" width="500" height="500">
 
-<img src="example2.jpg" width="500" height="500">
+<img src="example_images/example2.jpg" width="500" height="500">
 
 Outputs:
 
-<img src="example1_1.png" width="500" height="500">
+<img src="example_images/example1_1.png" width="500" height="500">
 
-<img src="example1_2.png" width="500" height="500">
+<img src="example_images/example1_2.png" width="500" height="500">
 
-<img src="example1_3.png" width="500" height="500">
+<img src="example_images/example1_3.png" width="500" height="500">
 
-<img src="example2_1.png" width="500" height="500">
+<img src="example_images/example2_1.png" width="500" height="500">
 
-<img src="example2_2.png" width="500" height="500">
+<img src="example_images/example2_2.png" width="500" height="500">
 
-<img src="example2_3.png" width="500" height="500">
+<img src="example_images/example2_3.png" width="500" height="500">
 
 
 Change the filename in Mobius_demo.ipynb and you will be able to mobius-transform your images! :)
