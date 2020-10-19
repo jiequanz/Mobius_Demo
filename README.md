@@ -9,9 +9,9 @@ Examples:
 
 Original Images:
 
-<img src="example1.png" width="500" height="500">
+<img src="example1.jpg" width="500" height="500">
 
-<img src="example2.png" width="500" height="500">
+<img src="example2.jpg" width="500" height="500">
 
 Outputs:
 
