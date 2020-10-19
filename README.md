@@ -7,3 +7,9 @@ https://arxiv.org/abs/2002.02917
 
 Examples output: 
 
+![image](example1.png)
+![image](example2.png)
+![image](example3.png)
+![image](example4.png)
+
+Change the filename in Mobius_demo.ipynb and you will be able to mobius-transform your images!
