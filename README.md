@@ -3,7 +3,9 @@ This is a quick demonstration for using Mobius transformations to manipulate ima
 
 This method is used in paper Data augmentation with Mobius transformations
 https://arxiv.org/abs/2002.02917
-Thanks to <a href="http://sharonzhou.me/">Sharon Zhou</a>
+
+Credit to <a href="http://sharonzhou.me/">Sharon Zhou</a>, <a href="https://hjian42.github.io/" target="_blank">Hang Jiang</a>, <a href="https://www.gu.se/english/about_the_university/staff/?languageId=100001&userId=xlundt" target="_blank">Torbjörn Lundh</a>, and
+			<a href="https://scholar.google.com/citations?user=mG4imMEAAAAJ&hl=en" target="_blank">Andrew Ng</a>
 
 The official repo from Stanford ML Group is coming soon!
 
