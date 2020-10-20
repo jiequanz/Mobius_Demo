@@ -1,5 +1,5 @@
 # Mobius_Demo
-Demonstration for Mobius transformations on images
+This is a quick demonstration for using Mobius transformations to manipulate images
 
 This method is used in paper Data augmentation with Mobius transformations
 https://arxiv.org/abs/2002.02917
