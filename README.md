@@ -4,6 +4,8 @@ Demonstration for Mobius transformations on images
 This method is used in paper Data augmentation with Mobius transformations
 https://arxiv.org/abs/2002.02917
 
+The official repo from Stanford ML Group is coming soon!
+
 
 Examples: 
 
