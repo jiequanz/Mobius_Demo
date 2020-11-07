@@ -7,7 +7,7 @@ https://arxiv.org/abs/2002.02917
 Credit to <a href="http://sharonzhou.me/">Sharon Zhou</a>, <a href="https://hjian42.github.io/" target="_blank">Hang Jiang</a>, <a href="https://scholar.google.com/citations?user=hYgvkugAAAAJ&hl=en" target="_blank">Torbjörn Lundh</a>, and
 			<a href="https://scholar.google.com/citations?user=mG4imMEAAAAJ&hl=en" target="_blank">Andrew Ng</a>
 
-The official repo from Stanford ML Group is coming soon!
+The official repo from Stanford ML Group is here: https://github.com/stanfordmlgroup/mobius
 
 
 Examples: 
